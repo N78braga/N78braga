@@ -39,7 +39,8 @@ que valorize o equilíbrio entre vida pessoal e profissional, permitindo-me dedi
   <font color="7FFFD4">Minhas tecnologias e Ferramentas</font>
     <br>
  </h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>  <img src="https://brandslogos.com/wp-content/uploads/images/large/github-octocat-logo.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>  <img src="https://brandslogos.com/wp-content/uploads/images/large/github-octocat-logo.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/> 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" width="40" height="40"/> 
 <h2>
   <font color="7FFFD4">Minhas Skills</font>
 </h2>
