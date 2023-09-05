@@ -31,13 +31,13 @@ que valorize o equilíbrio entre vida pessoal e profissional, permitindo-me dedi
 <h2>
   <font color="7FFFD4">Status</font>
 </h2>
-<div align="center>
+
 <a href="https://github.com/N78braga">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=N78braga&show_icons=true&theme=transparent&bg_color=013&hide_border=true&include_all_commits=true&count_private=true&icon_color=30A3DC&title_color=7FFFD4&text_color=FFF"/>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N78braga&layout=compact&bg_color=013&hide_border=true&title_color=7FFFD4&text_color=FFF"/>
-</div>
 <h2>
   <font color="7FFFD4">Minhas tecnologias e Ferramentas</font>
+    <br>
  </h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>  <img src="https://brandslogos.com/wp-content/uploads/images/large/github-octocat-logo.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> 
 <h2>
