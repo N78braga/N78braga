@@ -1,8 +1,13 @@
-  
-  <img src="https://png.pngtree.com/element_origin_min_pic/16/12/11/f102a7d102afee6fd3aad17a576b7d45.jpg" width="200" height="200" align="right"/> 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=7FFFD4&width=435&lines=Hello%2C+World)](https://git.io/typing-svg)
+  <div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTUsING6bcQ2UwIj5V7NKNuM9Uw8VZ53NW6W08BTmlaqJ-RypYeW-tfjxM7QLwLilYak&usqp=CAU" width="300" height="200" 
+ align="center"/> 
     
+  </div>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=160&lines=Hello%2C+World!" alt="Typing SVG" /></a>
+    
+
+  </div> 
 <h2>
 <font color = "7FFFD4" > Bem vindo ao meu Perfil</font>
 
