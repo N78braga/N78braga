@@ -1,6 +1,5 @@
   <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTUsING6bcQ2UwIj5V7NKNuM9Uw8VZ53NW6W08BTmlaqJ-RypYeW-tfjxM7QLwLilYak&usqp=CAU" width="300" height="200" 
- align="center"/> 
+  <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" align="center" width="900" >
     
   </div>
   <div align="center">
