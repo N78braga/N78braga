@@ -17,7 +17,7 @@
 Oi meu nome Ernando Braga da Silva, sou um profissional multifacetado com uma paixão profunda pela tecnologia. 
 Minha jornada começou na eletrotécnica, mas rapidamente se encaminhou para a programação após 
 um encontro especial com algoritmos. Atualmente, estou cursando Ciência da Computação no 
-6º período e sou talentoso desenvolvedor web. Estou estagiando na Prefeitura de Jaboatão dos Guararapes-PE, além disso, sou 
+7º período e sou talentoso desenvolvedor web. Estou estagiando na Prefeitura de Jaboatão dos Guararapes-PE, além disso, sou 
 um apreciador de música gospel, sou um entusiasta do bem-estar físico e um devoto 
 cristão que valoriza a família.
 </font></p>
